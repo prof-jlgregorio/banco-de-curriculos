@@ -1,0 +1,34 @@
+#photo {
+    width: 80%;
+    display: block;
+    margin: 10px auto;
+    border: medium white solid;
+    border-radius: 50%;
+    box-shadow: 4px 4px 4px black;
+}
+
+div.container{
+    background-color: white;
+    box-shadow: 0 0 8px black;
+    
+}
+
+body{
+    background: url("https://picsum.photos/1920/1080");
+}
+
+aside {
+    border-right: 1px solid thin lightgrey;    
+    margin-bottom: 15px;
+}
+
+
+#ocupacao{
+    text-indent: 10px;
+    font-style: italic;
+}
+
+
+#resumo {
+    text-align: justify;
+}
