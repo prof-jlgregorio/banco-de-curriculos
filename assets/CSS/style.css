@@ -1,0 +1,11 @@
+body {
+    background: url("https://picsum.photos/1920/1080")
+}
+
+.img{
+    border-radius: 60%; 
+}
+
+.container{
+    border-radius: 5px;
+}
